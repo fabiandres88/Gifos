@@ -1,9 +1,9 @@
-import '../globals.css';
+import '@/app/globals.css';
 
-function Dashboard() {
+function App() {
   return (
   <h1 className="font-sans md:font-serif">Dashboard</h1>
   );
 }
 
-export default Dashboard;
+export default App;
